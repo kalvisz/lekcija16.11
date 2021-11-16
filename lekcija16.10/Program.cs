@@ -10,7 +10,7 @@ namespace lekcija16._10
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Everyone!");
+            Console.WriteLine("Hello Everyone2!");
         }
     }
 }
